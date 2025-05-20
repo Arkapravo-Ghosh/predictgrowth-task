@@ -1,0 +1,6 @@
+[submodule "predictgrowth-task-backend"]
+	path = predictgrowth-task-backend
+	url = https://github.com/Arkapravo-Ghosh/predictgrowth-task-backend.git
+[submodule "predictgrowth-task-frontend"]
+	path = predictgrowth-task-frontend
+	url = https://github.com/Arkapravo-Ghosh/predictgrowth-task-frontend.git
